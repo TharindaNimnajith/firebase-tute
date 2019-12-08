@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IT18149654FirebaseTute</string>
+    <string name="enter_your_contact_number">Enter your Contact Number</string>
+    <string name="save">Save</string>
+    <string name="show">Show</string>
+    <string name="enter_your_address">Enter your Address</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="enter_your_id">Enter your ID</string>
+    <string name="enter_your_name">Enter your Name</string>
+</resources>
